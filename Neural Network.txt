@@ -1,0 +1,7 @@
+Neural Networks: Foundations and Applications
+
+Neural networks are computational models inspired by the human brain.
+They consist of layers of interconnected nodes capable of learning complex patterns.
+Applications include image recognition, NLP, and time-series forecasting.
+The paper discusses architectures such as CNNs, RNNs, and transformers.
+Current research aims to improve training efficiency, robustness, and explainability.
