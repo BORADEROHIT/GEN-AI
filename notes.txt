@@ -1,0 +1,119 @@
+Introduction to Artificial Intelligence - https://lex.infosysapps.com/en/app/toc/lex_8840337130015322000/overview 
+
+DO COMPLETE the Self assessment : https://lex.infosysapps.com/en/viewer/quiz/lex_26105618936746710000?collectionId=lex_8840337130015322000&collectionType=Course 
+__________________________
+
+Why AI 
+
+REF MS vision video: https://lex.infosysapps.com/en/viewer/youtube/lex_auth_0125947339891752961467?collectionId=lex_auth_012563397330165760282&collectionType=Course 
+__________________________
+What is AI ? 
+ = intelligence artificially? 
+mimic human intelligence = machines / software / programs
+
+
+human intelligence ? = cognitive abilities = 5 senses + learn from exp + pattern recognition + decision taking...  + Emotions 
+
+
+Aptitude tests? 
+2 , 5 , 8 , 11, ____ , _____
+
+1. formula ? figure  >> test  : n+3 
+
+2. apply the formula to get the next values in the series 
+
+
+T P v/s M  L : 
+
+i/ps >>> M/c >>> o/p
+x	(Program => y=x+3)
+
+
+i/ps
+     >>>> M/c  >>> Program / Model / Formula
+o/ps
+
+_________________________
+AI = ML + Vision + Robotics + Speech + NLP ... 
+
+AI  ~  DS ?? 
+	 = M L  + Math + Domain knowledge 
+_________________________
+
+ML :  Supervised + Unsupervised + Reinf..
+
+Supervised : i/ps + o/ps 
+	=     Regression +  Classification +  D L  (ANN :  CNN / RNN) 
+
+Human error : Features 
+_________________________
+
+ML Types: 
+1. Supervised 
+- Classification  
+   Classification algorithms: 
+	1. SVM  - separation 
+	2. D T  - tree 
+	3. K NN  -clustering
+	4. L R  - logistic 0 - 1 prob
+- Regression - simple Linear / multiple linear 
+- Deep Learning
+
+2. Unsupervised : i/ps >> groups  
+- Clustering
+- Association mining
+
+3. Reinforcement  : R/w + Penalty
+_________________________
+NLP  - example of Zoiee chatbot on Lex
+Speech 
+_______________________
+
+What is the Cloud ? 
+Cloud = set of data centers 
+ 
+Data center: set of server rooms in buildings across huge campuses -- 3Ps : Power + w Pipes + ping
+
+MS Azure Data center video : https://www.youtube.com/watch?v=ut1-qTlusnA 
+
+Office 365 = SaaS offerings on Azure from MS  
+Sign into https://portal.office.com/ with your Infy credentials from your personal device and get to install Office apps on the personal device too 
+
+REF: details on Office apps at https://www.microsoft.com/en-us/microsoft-365/enterprise/compare-office-365-plans
+
+_______________________
+AI & Business 
+Uber example
+MS Face API DEMO: 
+https://azure.microsoft.com/en-in/services/cognitive-services/face/#demo
+
+video on Uber using Face API:  https://www.youtube.com/watch?v=aEBi4OpXU4Q
+__________________________
+Popular AI Platforms:
+MS Azure cognitive services : Speech to text, C V, Face .. 
+{"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/PM_Modi_2015.jpg/450px-PM_Modi_2015.jpg?20170720093815"}
+
+GCP :
+Amazon Alexa, Polly.. .
+Infosys NIA 
+__________________________
+RxR reality - Infosys + Microsoft: 
+https://customers.microsoft.com/en-us/story/843823-rxr-realty-reopens-for-business-using-azure-iot
+_________________________
+MS Chatbot in ECS, Infosys: 
+https://lex.infosysapps.com/en/viewer/video/lex_auth_0127488673396736002845?collectionId=lex_auth_012563397330165760282&collectionType=Course
+__________________________
+2015: how old.net 10mins  - Joseph Sirosh - VP of Microsoft - https://www.youtube.com/watch?v=8W0yKdDzk_Y 
+
+2016: ms ignite video of 2016 on youtube from 43rd min  for War & Peace - Text analytics part of the stories : https://youtu.be/UUulQYalpxU?t=2584
+
+2018: Autistic kids helped with Computer vision-based app "Helpicto": https://www.youtube.com/watch?v=Za022qoC9IQ
+
+2020 MS Azure AI + IoT with Infosys in R&R (Super + Highly Relevant!!!) : https://www.youtube.com/watch?v=4SWNTqgjjyU 
+
+Recent "Walkout Store" Video from AINA: 
+https://infosystechnologies.sharepoint.com/sites/IMPACT/Upload%20Solution%20Videos/Autonomous%20Store_Unit%20Portal%20Video-720p-220516.mp4
+__________________________
+Repeating: 
+To ensure system marks you as AI-AWARE,  PLS DO COMPLETE the Self assessment : https://lex.infosysapps.com/en/viewer/quiz/lex_26105618936746710000?collectionId=lex_8840337130015322000&collectionType=Course 
+__________________________

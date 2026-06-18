@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<research_project id="RP-2026-0042">
+    <researcher>
+        <name>Dr. Elena Vance</name>
+        <address>
+            <street>123 Innovation Drive</street>
+            <city>Tech City</city>
+            <state>ST</state>
+            <zip>54321</zip>
+            <country>USA</country>
+        </address>
+        <affiliation>Institute of Sustainable Energy</affiliation>
+    </researcher>
+
+    <project_details>
+        <title>Urban Heat Island Mitigation via Vertical Solar Arrays</title>
+        <problem_statement>
+            Current urban solar installations often fail to account for localized heat 
+            accumulation, which reduces photovoltaic efficiency by up to 15% during 
+            peak summer months in high-density areas.
+        </problem_statement>
+        <methodology>
+            The project will utilize a network of IoT thermal sensors and 
+            computational fluid dynamics (CFD) modeling to analyze airflow 
+            patterns around skyscraper-mounted panels.
+        </methodology>
+        <start_date>2026-06-01</start_date>
+        <duration_months>24</duration_months>
+    </project_details>
+
+    <funding>
+        <grant_required currency="USD">75000</grant_required>
+        <grant_given currency="USD">62500</grant_given>
+        <status>Partially Funded</status>
+        <disbursement_type>Quarterly Installments</disbursement_type>
+    </funding>
+
+    <milestones>
+        <milestone id="1">
+            <description>Initial Sensor Deployment</description>
+            <due_date>2026-09-15</due_date>
+        </milestone>
+        <milestone id="2">
+            <description>Mid-project Data Analysis Report</description>
+            <due_date>2027-06-01</due_date>
+        </milestone>
+    </milestones>
+</research_project>
